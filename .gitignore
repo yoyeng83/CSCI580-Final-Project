@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore system-specific files
+Thumbs.db
+ehthumbs.db
+
+# Ignore Python-related cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS-related files
+.DS_Store
